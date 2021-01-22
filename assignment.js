@@ -1,3 +1,5 @@
+// https://github.com/Wild-Hound/project3
+
 function kilometerToMeter(distance){
     meter = distance * 1000;
     return meter;
